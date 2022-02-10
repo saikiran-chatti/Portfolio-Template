@@ -3,14 +3,8 @@
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/46348137/153438031-6f1c2716-411e-4f05-9a70-4c45b82d0315.gif" alt="portfolio" width="600px" />
-  <br>
+ https://user-images.githubusercontent.com/46348137/153438218-2cc5427a-310c-4f60-bcb7-e4c53ca42e2a.mp4
 </h2>
-
-<video width="200" height="150" controls>
-  <source src="https://user-images.githubusercontent.com/46348137/153438218-2cc5427a-310c-4f60-bcb7-e4c53ca42e2a.mp4
-" type="video/mp4">
-</video>
 
 I took inspiration from this [figma file](https://www.figma.com/community/file/824810955262478067) and implemented it without any third party frameworks like Bootstrap.
 
