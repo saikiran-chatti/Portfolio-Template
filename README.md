@@ -3,7 +3,7 @@
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="portfolio" width="600px" />
+  <img src="https://user-images.githubusercontent.com/46348137/153438031-6f1c2716-411e-4f05-9a70-4c45b82d0315.gif" alt="portfolio" width="600px" />
   <br>
 </h2>
 
