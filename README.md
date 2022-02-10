@@ -8,8 +8,8 @@
 </h2>
 
 <video width="200" height="150" controls>
-  <source src="vid.mp4" type="video/mp4">
-  <source src="vid.ogg" type="video/ogg">
+  <source src="https://user-images.githubusercontent.com/46348137/153438218-2cc5427a-310c-4f60-bcb7-e4c53ca42e2a.mp4
+" type="video/mp4">
 </video>
 
 I took inspiration from this [figma file](https://www.figma.com/community/file/824810955262478067) and implemented it without any third party frameworks like Bootstrap.
