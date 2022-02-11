@@ -12,7 +12,7 @@ I took inspiration from this [figma file](https://www.figma.com/community/file/8
 To view the demo: **[click here](https://jayanthsaikiran-portfolio-template.netlify.app/)**
 
 ## Authors
-- **Ryan Warner** - [https://www.figma.com/community/file/824810955262478067](https://www.figma.com/community/file/824810955262478067)
+- **Ryan Warner** - Figma design [https://www.figma.com/community/file/824810955262478067](https://www.figma.com/community/file/824810955262478067)
 - **Jayanth Saikiran** - [https://github.com/jayanthsaikiran](https://github.com/jayanthsaikiran)
 
 ## Status
