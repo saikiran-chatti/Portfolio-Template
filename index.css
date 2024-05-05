@@ -13,6 +13,11 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    scroll-behavior: smooth;
+    overscroll-behavior: none; /* Add this line to disable overscroll */
+}
+
 li {
     list-style: none;
 }
@@ -341,6 +346,7 @@ footer {
     justify-content:flex-start;
     padding: 1rem 1.5rem;
     margin-top: 2rem;
+    margin-bottom: 2rem;
     width: 85%;
 }
 
