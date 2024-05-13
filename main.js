@@ -14,3 +14,17 @@ function closeMenu() {
     hamburger.classList.remove("active");
     navMenu.classList.remove("active");
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+    // Add event listener to the resume link
+    var resumeLink = document.getElementById('resumeLink');
+    if (resumeLink) {
+        resumeLink.addEventListener('click', function () {
+            // Send an event to Google Analytics
+            gtag('event', 'resume_click', {
+                'event_category': 'Resume',
+                'event_label': 'Resume Button Clicked'
+            });
+        });
+    }
+});
